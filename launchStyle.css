@@ -1,0 +1,7 @@
+body {
+  font-family: "Helvetica";
+}
+
+/* code all of your css here - make sure you include a grid! */
+/* remember, to start a grid you need a div that holds all other divs */
+/* in the css styling for this grid, you would say display: grid and then use grid-template-columns and grid-template-rows to set everything up. */
